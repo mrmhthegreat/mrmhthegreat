@@ -9,11 +9,6 @@
     "admob_pub" : "pub-8561478470645828",
     "admob_banner" : "ca-app-pub-8561478470645828/6916437494",
     "admob_inter" : "ca-app-pub-8561478470645828/9077952003",
-    "admob_AppOpen" : "ca-app-pub-8561478470645828/5411784131",
-    
-    "ONESIGNAL_APP_ID" : "cfae7c7c-d7d0-4062-a124-9ee47fd6e049",
-    
-  
-    
+    "admob_AppOpen" : "ca-app-pub-8561478470645828/5411784131"   
   }
 }
