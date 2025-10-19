@@ -24,10 +24,14 @@ Hello! I'm Hassan Ahmad, a passionate software developer with expertise in Flutt
 - **JavaScript**
 - **C++**
 - **Dart**
+- **GO**
+- **Kotlin**
 
 ### Frameworks and Libraries
 
 - **Flutter**
+- **Go Fiber**
+- **Jet Compose**
 - **Django**
 - **Unity**
 
@@ -35,6 +39,7 @@ Hello! I'm Hassan Ahmad, a passionate software developer with expertise in Flutt
 
 - **GitHub**
 - **Docker**
+- **Notion**
 - **Kubernetes**
 - **AWS**
 
@@ -42,6 +47,7 @@ Hello! I'm Hassan Ahmad, a passionate software developer with expertise in Flutt
 
 - **Web Scraping**
 - **Web Automation**
+- **Backend Development**
 - **Microservices**
 - **Data Structures and Algorithms (DSA)**
 
