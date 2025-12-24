@@ -8,7 +8,7 @@ Hello! I'm Hassan Ahmad, a passionate software developer with expertise in Flutt
 
 - **LinkedIn:** [Hassan Ahmad](https://www.linkedin.com/in/hassaan-ahmad-1678b5218/)
 - **Instagram:** [@mrmhthegreat](https://www.instagram.com/mrmhthegreat)
-- **Website:** [@mrmhthegreat](https://hassaanahmad.dev)
+- **Website:** [Hassan Ahmad](https://hassaanahmad.dev)
 - **Email:** mrmhthegreat@gmail.com
 
 
