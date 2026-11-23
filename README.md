@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Vayrilo<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>Hello! I'm Hassan Ahmad, a passionate software developer with expertise in Dart, Go,Rust, and Python. I love creating innovative solutions, learning new technologies, and contributing to the developer community.
+🔭 I’m currently working on Vayrilo<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning DevopsSec<br>💬 Ask me about<br>⚡ Fun fact<br>Hello! I'm Hassan Ahmad, a passionate software developer with expertise in Dart, Go,Rust, and Python. I love creating innovative solutions, learning new technologies, and contributing to the developer community.
 
 
 ## 🌐 Socials:
