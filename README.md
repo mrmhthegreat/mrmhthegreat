@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Vayrilo<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning DevopsSec<br>💬 Ask me about<br>⚡ Fun fact<br>Hello! I'm Hassan Ahmad, a passionate software developer with expertise in Dart, Go,Rust, and Python. I love creating innovative solutions, learning new technologies, and contributing to the developer community.
-
+Hello! I'm Hassan Ahmad, a passionate software developer with expertise in Dart, Go,Rust, and Python. I love creating innovative solutions, learning new technologies, and contributing to the developer community.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hassaan_urf_sani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@malikhassaan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@haan-ad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrmhthegreat@gmail.com) 
